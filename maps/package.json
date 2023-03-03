@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "dependencies": {
+    "@types/yandex-maps": "^2.1.29",
+    "ymaps": "^0.2.1"
+  }
+}
