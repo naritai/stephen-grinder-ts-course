@@ -1,0 +1,1 @@
+### Repo contains learning projects from Stephen Grinder TypeScript course.
