@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vanya",
+      "age": 2000
+    },
+    {
+      "name": "Vladimir",
+      "id": 2
+    },
+    {
+      "name": "Vladimir",
+      "id": 3
+    },
+    {
+      "name": "Vladimir",
+      "id": 4
+    },
+    {
+      "name": "Vladimir",
+      "id": 5
+    },
+    {
+      "name": "Vladimir",
+      "id": 6
+    },
+    {
+      "name": "Vladimir",
+      "id": 7
+    }
+  ]
+}
